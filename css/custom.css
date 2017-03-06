@@ -1,0 +1,43 @@
+/* your styles go here */
+
+/* sidebar */
+@media screen and (min-width: 992px) {
+  #sidebar {
+    position: fixed;
+  }
+  #main-contents-mine {
+    margin-left: 25%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #sidebar {
+    position: fixed;
+  }
+  #main-contents-mine {
+    margin-left: 33.33333333%;
+  }
+}
+
+#sidebar-parent-mine.active #sidebar {
+  position: fixed;
+  -webkit-transition: all 0.25s ease-out;
+  -o-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out;
+  left: 0%;
+}
+
+#sidebar {
+  height: 100%;
+
+  background-color: #444;
+}
+
+#credit-mine {
+  position: absolute;
+  bottom: 5px;
+}
+
+#main-contents-mine {
+  margin-left: 0%;
+}
