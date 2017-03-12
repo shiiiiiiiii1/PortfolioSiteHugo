@@ -2,26 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/work2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
@@ -69,6 +49,61 @@
   <url>
     <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/work11/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/search</loc>
+    <lastmod>2017-03-12T17:29:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/search/index.js</loc>
+    <lastmod>2017-03-12T16:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/work1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/</loc>
+    <lastmod>2017-03-12T16:05:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/search/</loc>
+    <lastmod>2017-03-12T17:29:14+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

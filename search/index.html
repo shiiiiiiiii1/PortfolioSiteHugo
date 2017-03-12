@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Name of the work 7</title>
+<title>全文検索</title>
 <meta name="description" content="Describe your website">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -77,49 +77,44 @@
   </div>
 </div>
         
-<div id="main-contents-mine" class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
-  <div class="small-navbar visible-xs">
-  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
-  <h1 class="small-navbar-heading"><a href="/">My New Hugo Site</a></h1>
-</div>
-
-  <div class="row">
-    <div class="col-lg-8">
-      <div class="content-column-content">
-         <h1>Name of the work 7</h1>
-         <p>Fifth abundantly made Give sixth hath. Cattle creature i be don&rsquo;t them.
-</p>
-
-<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-
-<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-
-<ol>
-<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-<li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
-
-<blockquote>
-<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-</blockquote>
-
-<h2 id="header-level-2">Header Level 2</h2>
-
-<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-
-<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-
-<ul>
-<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-<li>Aliquam tincidunt mauris eu risus.</li>
-</ul>
-
-<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then</p>
-         
-      </div>
-    </div>
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">このコンテンツは @luminousspice が非同期的に更新しています。経時的な順序に意味はありません。</div>
+  <div class="sidebar-item">
   </div>
 </div>
+
+<div class="wrap">
+  <div class="container content">
+    <div class="post">
+      <h1 class="post-title">全文検索</h1>
+      <div class="ulist">
+        <ul>
+          <li>
+            <p>入力欄フォーカス中は、エンターキー、矢印キーでベージ送りします。</p>
+          </li>
+        </ul>
+      </div>
+
+      <script src="index.js"></script>
+
+      <div id="searchbox">
+        <input type="text" id="q" onkeyup="do_find(this.value)" onkeydown="key(event.keyCode)" autocomplete="off" placeholder="サイト内を検索"><span id="stat"></span>
+        <div id="navi"></div>
+        <div id="result"></div>
+      </div>
+
+      <script src="/js/search/main.js"></script>
+      <script src="/js/search/sub.js"></script>
+
+      <noscript><p class="notice">注意: この検索機能は JavaScript を使用しています。</p></noscript>
+    </div>
+
+  </div>
+</div>
+
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+<script src="/js/search/sub2.js"></script>
 
       </div>
     </div>
