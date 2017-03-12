@@ -237,3 +237,10 @@ function view(result, offset) {
   }
   id_result.innerHTML = buf.join("");
 }
+
+function sw(t){
+  var span = id_navi.getElementsByTagName("span");
+  for(var i=0;i<span.length;i++){
+    span[i].className = (i==t)?"selected":"";
+  }
+}

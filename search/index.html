@@ -43,7 +43,7 @@
       
         <li id="menu-contact-mine"><a href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo//contact">Get in touch</a></li>
       
-        <li id="menu-search-mine"><a href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo//search">Index</a></li>
+        <li id="menu-search-mine"><a href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo//search">Search</a></li>
       
     </ul>
     <p class="social">
@@ -77,44 +77,42 @@
   </div>
 </div>
         
-<div class="sidebar" id="sidebar">
-  <div class="sidebar-item">このコンテンツは @luminousspice が非同期的に更新しています。経時的な順序に意味はありません。</div>
-  <div class="sidebar-item">
-  </div>
+
+<div id="main-contents-mine" class="col-xs-12 col-sm-8 col-md-9 content-column white-background search_main_mine">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="/">My New Hugo Site</a></h1>
 </div>
 
-<div class="wrap">
-  <div class="container content">
-    <div class="post">
-      <h1 class="post-title">全文検索</h1>
-      <div class="ulist">
-        <ul>
-          <li>
-            <p>入力欄フォーカス中は、エンターキー、矢印キーでベージ送りします。</p>
-          </li>
-        </ul>
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+        <h1>全文検索</h1>
+        <p>全記事から該当されることばを検索します。</p>
+
+        <script src="/PortfolioSiteHugo/search/index.js"></script>
+
+        <div id="searchbox">
+          <input type="text" id="q" onkeyup="do_find(this.value)" onkeydown="key(event.keyCode)" autocomplete="off" placeholder="サイト内を検索"><span id="stat"></span>
+          <div id="navi"></div>
+          <div id="result"></div>
+        </div>
+
+        <script src="/PortfolioSiteHugo/js/search/main.js"></script>
+        <script src="/PortfolioSiteHugo/js/search/sub.js"></script>
+
+        <noscript><p class="notice">注意: この検索機能は JavaScript を使用しています。</p></noscript>
+        <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+        <script src="/PortfolioSiteHugo/js/search/sub2.js"></script>
+
       </div>
-
-      <script src="/PortfolioSiteHugo/search/index.js"></script>
-
-      <div id="searchbox">
-        <input type="text" id="q" onkeyup="do_find(this.value)" onkeydown="key(event.keyCode)" autocomplete="off" placeholder="サイト内を検索"><span id="stat"></span>
-        <div id="navi"></div>
-        <div id="result"></div>
-      </div>
-
-      <script src="/PortfolioSiteHugo/js/search/main.js"></script>
-      <script src="/PortfolioSiteHugo/js/search/sub.js"></script>
-
-      <noscript><p class="notice">注意: この検索機能は JavaScript を使用しています。</p></noscript>
     </div>
-
   </div>
 </div>
 
-<label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-<script src="/PortfolioSiteHugo/js/search/sub2.js"></script>
+
 
       </div>
     </div>

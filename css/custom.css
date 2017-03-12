@@ -11,6 +11,61 @@
 */
 
 /*
+  検索ページのレイアウト
+*/
+#q {
+  font-size: 13px;
+  padding: 5px;
+  padding-left: 10px;
+  width: 300px;
+  border: 1px solid #d8d8d8;
+}
+
+#stat {
+  margin-left: 10px;
+}
+
+#navi {
+  margin: 20px 5px;
+}
+
+#navi span {
+  border-top: 1px solid #d8d8d8;
+  border-bottom: 1px solid #d8d8d8;
+  padding: 8px 15px;
+  cursor: pointer;
+  word-wrap: break-word;
+}
+
+#navi span:first-child {
+  border-left: 1px solid #d8d8d8;
+  border-top-left-radius: 0.4rem;
+  border-bottom-left-radius: 0.4rem;
+}
+
+#navi span:last-child {
+  border-right: 1px solid #d8d8d8;
+  border-top-right-radius: 0.4rem;
+  border-bottom-right-radius: 0.4rem;
+}
+
+#navi span.selected {
+  background-color: #e01557;
+}
+
+#main-contents-mine.search_main_mine {
+  min-height: 97vh;
+}
+
+@media screen and (max-width: 767px) {
+  #stat {
+    margin-top: 12px;
+    margin-left: 0;
+    display: block;
+  }
+}
+
+/*
   --- sidebar ---
   サイドバーの固定を行うためのcss
 */
