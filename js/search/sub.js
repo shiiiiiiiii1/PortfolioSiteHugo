@@ -2,10 +2,10 @@
 /* exported do_find, key */
 
 var bodylist = [];
-var id_start = document.getElementById("stat");
+var id_stat = document.getElementById("stat");
 var id_result = document.getElementById("result");
 var id_navi = document.getElementById("navi");
-var page_show_max = 5;
+var page_show_max = 10;
 var Keycode = {
   enter: 13,
   left : 37,
@@ -47,6 +47,9 @@ function do_find(input_val) {
   if(re.length) {
     pagenavi(re);
     view(re);
+  } else {
+    pagenavi(0);
+    view_delete();   // 検索結果を消す処理
   }
 }
 
@@ -119,7 +122,7 @@ function find(query) {
     }
   }
   if(result.length) {   // 何件あったか。２次元配列になっている。
-    id_start.innerHTML = result.length + "件見つかりました。";
+    id_stat.innerHTML = result.length + "件見つかりました。";
   }
 
   return result;
@@ -242,5 +245,12 @@ function sw(t){
   var span = id_navi.getElementsByTagName("span");
   for(var i=0;i<span.length;i++){
     span[i].className = (i==t)?"selected":"";
+  }
+}
+
+function view_delete() {
+  id_stat.textContent = "検索結果が見つかりません";
+  while(id_result.firstChild) {
+    id_result.removeChild(id_result.firstChild);
   }
 }
