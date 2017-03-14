@@ -1,124 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio Site</title>
-    <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/index.xml</link>
-    <description>Recent content on My Portfolio Site</description>
+    <title>基礎デザイン制作１ on My Portfolio Site</title>
+    <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E5%9F%BA%E7%A4%8E%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%88%B6%E4%BD%9C%EF%BC%91/index.xml</link>
+    <description>Recent content in 基礎デザイン制作１ on My Portfolio Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2017 ShoichiYokobori</copyright>
-    <lastBuildDate>Wed, 15 Mar 2017 04:00:37 +0900</lastBuildDate>
-    <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About me</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/about/</link>
-      <pubDate>Wed, 15 Mar 2017 04:00:37 +0900</pubDate>
-      
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/about/</guid>
-      <description>
-
-&lt;p&gt;修士１年の横堀翔一です。&lt;br /&gt;
-法政大学デザイン工学部システムデザイン学科に所属しています。現在はユニバーサルメカトロデザイン研究室にて研究を行っています。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/about/about.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;バイト-インターン経歴&#34;&gt;バイト・インターン経歴&lt;/h2&gt;
-
-&lt;h3 id=&#34;チームラボ&#34;&gt;チームラボ&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.team-lab.com/&#34;&gt;ホームページ&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;期間&#34;&gt;期間&lt;/h4&gt;
-
-&lt;p&gt;2016年12月〜&lt;/p&gt;
-
-&lt;h4 id=&#34;業務内容&#34;&gt;業務内容&lt;/h4&gt;
-
-&lt;p&gt;実際に使用しているものや、これから使用するためのもののハードウェアの点検や修理を行っています。&lt;/p&gt;
-
-&lt;h3 id=&#34;株式会社sarah&#34;&gt;株式会社SARAH&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sarah30.com/&#34;&gt;ホームページ&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;期間-1&#34;&gt;期間&lt;/h4&gt;
-
-&lt;p&gt;2016年4月〜2016年7月&lt;/p&gt;
-
-&lt;h4 id=&#34;業務内容-1&#34;&gt;業務内容&lt;/h4&gt;
-
-&lt;p&gt;Ruby on Railsを使用したバックエンドシステムの開発を行いました。&lt;/p&gt;
-
-&lt;h3 id=&#34;株式会社マイティ-マイティ&#34;&gt;株式会社マイティ・マイティ&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.mighty2.com/&#34;&gt;ホームページ&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;期間-2&#34;&gt;期間&lt;/h4&gt;
-
-&lt;p&gt;2016年1月〜2016年2月&lt;/p&gt;
-
-&lt;h4 id=&#34;業務内容-2&#34;&gt;業務内容&lt;/h4&gt;
-
-&lt;p&gt;主にWebサイトのフロントエンドを実装しました。&lt;/p&gt;
-
-&lt;h2 id=&#34;スキル&#34;&gt;スキル&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Arduino(C++)&lt;/li&gt;
-&lt;li&gt;Processing&lt;/li&gt;
-&lt;li&gt;RassberyPi&lt;/li&gt;
-&lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;CSS&lt;/li&gt;
-&lt;li&gt;SCSS&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;li&gt;Ruby on Rails&lt;/li&gt;
-&lt;li&gt;Illustrator&lt;/li&gt;
-&lt;li&gt;Photoshop&lt;/li&gt;
-&lt;li&gt;Fusion360&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;その他、動画の編集や3Dプリンター・レーザーカッター・切削機を使用しました。&lt;/p&gt;
-
-&lt;h2 id=&#34;趣味&#34;&gt;趣味&lt;/h2&gt;
-
-&lt;p&gt;最近の趣味は、旅行に行ったり、写真を撮ったり、ドライブしたり、温泉♨入ったり、美味しいもの食べたり、、、&lt;br /&gt;
-もちろんいろいろなものを製作するのは好きです！&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;sample&#34; src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/about/about1.JPG&#34; width=&#34;47%&#34; style=&#34;margin-bottom:10px&#34;&gt;
-&lt;img class=&#34;sample&#34; src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/about/about2.jpg&#34; width=&#34;47%&#34; style=&#34;margin-bottom:10px&#34;&gt;
-&lt;img class=&#34;sample&#34; src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/about/about3.JPG&#34; width=&#34;47%&#34; style=&#34;margin-bottom:10px&#34;&gt;
-&lt;img class=&#34;sample&#34; src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/about/about4.JPG&#34; width=&#34;47%&#34; style=&#34;margin-bottom:10px&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/search</link>
-      <pubDate>Sun, 12 Mar 2017 17:29:14 +0900</pubDate>
-      
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/search</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/search/index.js</link>
-      <pubDate>Sun, 12 Mar 2017 16:05:05 +0900</pubDate>
-      
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/search/index.js</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/contact/</link>
-      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/contact/</guid>
-      <description>&lt;p&gt;ご連絡はこちらからできます。&lt;br /&gt;
-名前・アドレス・ご連絡内容を記述の上、送信ボタンをお願いします。&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E5%9F%BA%E7%A4%8E%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%88%B6%E4%BD%9C%EF%BC%91/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>卵のパッケージデザイン</title>

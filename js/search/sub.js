@@ -15,7 +15,7 @@ var Keycode = {
 };
 
 for(var i = 0; i < data.length; i++) {   // data配列の [title content] の形で順番に入っている。
-  bodylist.push(data[i].title + " " + data[i].content);
+  bodylist.push(data[i].title + " " + data[i].content + " tags[" + data[i].tags + "]");
 }
 // var bodyidx = bodylist.join("<>");   // 配列の区切りに "<>" 文字列を入れている。
 
@@ -87,7 +87,7 @@ function key(c) {
 * - 検索にヒットした文字列の配列を作っている。
 *   - data配列の何番目にヒットしたか。
 *   - その文字列の何番目の文字にヒットしたか。
-*   - 今打ち込まれている文字列の長ざ。
+*   - 今打ち込まれている文字列の長さ。
 * - この配列は2次元に設計されていて、それを返り値として返している。
 *
 * @params {String} 検索欄に打ち込まれた文字列全部
@@ -142,7 +142,8 @@ function find(query) {
 
 function snippet(body, idx, len) {
   var start = idx - 20;
-  return [ body.substring(start, idx),
+  return [
+    body.substring(start, idx),
     "<b>",
     body.substr(idx, len),
     "</b>",
@@ -234,11 +235,29 @@ function view(result, offset) {
     var len = result_reverse[i][2];
     with(data[num]) {
       buf.push(
-        "<dt><a href='" , url , "'>" , title || "無題" , "</a>" , "<dd>" , snippet(bodylist[num], idx, len)
+        "<div class='search_result_mine'><dt><a href='" , url , "'>" , title || "無題" , "</a>" ,
+        "<dd>", snippet_tags(data[num]),
+        snippet(bodylist[num], idx, len), "</div>"
       );
     }
   }
   id_result.innerHTML = buf.join("");
+}
+
+function snippet_tags(data) {
+  var tags_string = "";
+  for(var i = 0; i < data.tags.length; i++) {
+    if (i == 0) {
+      tags_string += '<dd class="fa_search_tags_mine">';
+    }
+    tags_string += '<i class="fa fa-lg fa-tags"></i><span>'
+                + data.tags[i]
+                + "</span>";
+    if (i+1 == data.tags.length) {
+      tags_string += "</dd>";
+    }
+  }
+  return tags_string;
 }
 
 function sw(t){
