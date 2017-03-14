@@ -212,6 +212,9 @@ p.social a {
     color: #00601a; }
 .content-column-content p {
   color: #999999; }
+@media screen and (max-width: 767px) {
+  .content-column-content img {
+    margin-bottom: 10px; } }
 
 blockquote {
   border-left-color: #00601a; }
