@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhinoceros on My Portfolio Site</title>
+    <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/rhinoceros/index.xml</link>
+    <description>Recent content in Rhinoceros on My Portfolio Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017 ShoichiYokobori</copyright>
+    <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/rhinoceros/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rhinocerosを使用した3Dモデリング</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product3DmodelCamera/</link>
+      <pubDate>Fri, 16 Oct 2015 16:34:30 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product3DmodelCamera/</guid>
+      <description>
+
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;多くの人のほとんどが人生で一度は利用するものそういった身近な製品の改良したいと考えました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;公共の施設&lt;/li&gt;
+&lt;li&gt;当たり前に行うこと&lt;/li&gt;
+&lt;li&gt;必然的に行わなければならないこと&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;そこで着目したのが病院の診察です。病院は怪我をしたり、体調を崩したら必然的に行かなければならなくなると思います。その多くの人が利用する機関に、まだ改良できる部分はあるのではないかと考えました。&lt;/p&gt;
+
+&lt;p&gt;そこで私は自分の将来を考え病院に行く時期を考えました。必ず病院に行く時は人間ドックで検査をする時だと思いました。その時に胃カメラを飲み込んで見せられた時にイメージがつきにくいのではないかと思い、その辺りの改善をしようと思いました。&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera1.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;自分の体を自分で理解&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;自分は将来的に絶対通るであろう道の人間ドックについて考えました。その時に胃の中の説明はよくわからないし、ここの辺りと言われてもいまいち想像がつかないと思いました。そういった時に胃の中に入りながら説明されればより親近感が湧いてわかりやすい説明がしやすいのではないかと考えました。そこで、胃の中にいるような感覚で説明できるようなものを提案したいと考えました。しかし、現代の胃カメラでは前方しか録画できないのでこれを360°録画できるような構造にすれば良いと考えました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;structure&#34;&gt;Structure&lt;/h2&gt;
+
+&lt;h3 id=&#34;胃カメラ&#34;&gt;胃カメラ&lt;/h3&gt;
+
+&lt;p&gt;胃カメラの内部構造はおおまかにこのような感じになると思います。中身が露出しすぎて飲み込む時に抵抗があまり出ないように黄色くして覆いました。&lt;/p&gt;
+
+&lt;p&gt;①LED電気、②CMOSセンサー、③ボタン電池、④ASIC(無線送信部)、⑤アンテナ、⑥カメラ
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;モニタールーム&#34;&gt;モニタールーム&lt;/h3&gt;
+
+&lt;p&gt;①アンテナ、②基板、③LED電気、④配線、⑤液晶モニター
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera5.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+
+&lt;p&gt;胃の中を、360°モニターで映し出して、自分が胃の中に入っているような感覚で話を聞ける。こうすることによって、より細部まで観察することができる。また、胃の中をイメージして話が聞けるので理解力を促進することができる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera6.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera7.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>空間に会う電子ケトルの提案</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductKettleDesign/</link>
+      <pubDate>Fri, 16 May 2014 14:59:31 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductKettleDesign/</guid>
+      <description>
+
+&lt;h2 id=&#34;space-propotion&#34;&gt;Space Propotion&lt;/h2&gt;
+
+&lt;p&gt;高校生から大学生に変わり、気持ちの変化から落ち着いた空間の良さがよりわかるようになり、この「和」といった空間を選びました。また、この昔からの「和」の空間を邪魔しないデザインのケトルを提案しようと思いました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design1.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;「和」の空間を邪魔しない&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;和室はとても落ち着きがあり、ゆったりした気分になります。そういった雰囲気はほかの部屋には出せない、和室の特徴です。その特徴を壊してしまうと和室が和室でなくなってしまうと思います。だから、和室独自の特徴を残しつつ現代の電子ケトルというものを自然に取り入れられるデザインを考えました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;「和」の空間を邪魔しないデザインにするために、「和」という特徴について考えました。「和」の自分の中のイメージとしては「古くからあるもの」「歴史として受け継がれているもの」といったイメージでした。そういったイメージの中で考えていき、思いついたのが「ししおどし」でした。ししおどしは、和の象徴とも言える竹を使っており、水も連想させるのでケトルにするにはいいと考えました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;target-user&#34;&gt;Target User&lt;/h2&gt;
+
+&lt;p&gt;自分のような高校生から大学生にあがり、環境の変化とともに気持ちも変化し今までなんとも思っていなかったことが違って見えたりすると思います。「和室」といった空間もそれと同様に、より好きになった人もいると思います。そういった若い人にも「和」の空間をより現代の生活に近いものにし生活しやすい空間にしようと思いました。&lt;/p&gt;
+
+&lt;h2 id=&#34;sketch&#34;&gt;Sketch&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design4.JPG&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;持ち手を女性の小さい手でも持ちやすいようにすることを意識しました。参考としてペットボトルの形や寸法などを調べました。竹らしさを残すために曲線を意識してデザインしました。蓋は、電子ケトルらしさをなくさないために見えない位置に設置するようなデザインにしました。&lt;/p&gt;
+
+&lt;h2 id=&#34;drawing&#34;&gt;Drawing&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;本体の三面図&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design5.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;土台の三面図&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design6.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;white-rendering&#34;&gt;White Rendering&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;本体部&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design7.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;土台部&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design8.jpg&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mockup&#34;&gt;Mockup&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design9.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design10.png&#34; width=&#34;35%&#34;&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design11.jpg&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

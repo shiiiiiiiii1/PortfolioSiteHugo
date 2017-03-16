@@ -15,7 +15,7 @@ var Keycode = {
 };
 
 for(var i = 0; i < data.length; i++) {   // data配列の [title content] の形で順番に入っている。
-  bodylist.push(data[i].title + " " + data[i].content + " tags[" + data[i].tags + "]");
+  bodylist.push(data[i].title + " " + data[i].content + " [" + data[i].tags + "]");
 }
 // var bodyidx = bodylist.join("<>");   // 配列の区切りに "<>" 文字列を入れている。
 

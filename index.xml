@@ -110,6 +110,15 @@
     </item>
     
     <item>
+      <title>学部生の卒業制作</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductGraduateDepartment/</link>
+      <pubDate>Thu, 16 Feb 2017 18:50:00 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductGraduateDepartment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/contact/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
@@ -117,6 +126,260 @@
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/contact/</guid>
       <description>&lt;p&gt;ご連絡はこちらからできます。&lt;br /&gt;
 名前・アドレス・ご連絡内容を記述の上、送信ボタンをお願いします。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACTEE</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductActee/</link>
+      <pubDate>Fri, 16 Sep 2016 16:44:41 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductActee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>レスポンシブデザインを使用したサイト</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web2/</link>
+      <pubDate>Thu, 16 Jun 2016 16:44:23 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draw Sketch</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</link>
+      <pubDate>Tue, 16 Feb 2016 16:41:47 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</guid>
+      <description>&lt;p&gt;初めてのwebアプリケーションの制作だった。Life is techでのインターンの内容だったので railsを使用せずにsinatraで始めた。Draw Sketchは簡単に言うとtwitterやinstagramなどの webサービスだ。twitterはつぶやくこと中心、instagramは写真を共有することが中心。 今回のDraw Sketchは、絵を描いてそれを共有するサービスである。現代のアプリケーションの 流れを考えたときに、絵を描くことが好きな人はきっとそれを共有したいと思うのではないのか といった考えのもと制作しようと思った。また、これを制作後、Rubyに興味をもち、Railsの勉強をした。 現在は、Railsを使用した企業でアルバイトをしている。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rhinocerosを使用した3Dモデリング</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product3DmodelCamera/</link>
+      <pubDate>Fri, 16 Oct 2015 16:34:30 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product3DmodelCamera/</guid>
+      <description>
+
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;多くの人のほとんどが人生で一度は利用するものそういった身近な製品の改良したいと考えました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;公共の施設&lt;/li&gt;
+&lt;li&gt;当たり前に行うこと&lt;/li&gt;
+&lt;li&gt;必然的に行わなければならないこと&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;そこで着目したのが病院の診察です。病院は怪我をしたり、体調を崩したら必然的に行かなければならなくなると思います。その多くの人が利用する機関に、まだ改良できる部分はあるのではないかと考えました。&lt;/p&gt;
+
+&lt;p&gt;そこで私は自分の将来を考え病院に行く時期を考えました。必ず病院に行く時は人間ドックで検査をする時だと思いました。その時に胃カメラを飲み込んで見せられた時にイメージがつきにくいのではないかと思い、その辺りの改善をしようと思いました。&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera1.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;自分の体を自分で理解&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;自分は将来的に絶対通るであろう道の人間ドックについて考えました。その時に胃の中の説明はよくわからないし、ここの辺りと言われてもいまいち想像がつかないと思いました。そういった時に胃の中に入りながら説明されればより親近感が湧いてわかりやすい説明がしやすいのではないかと考えました。そこで、胃の中にいるような感覚で説明できるようなものを提案したいと考えました。しかし、現代の胃カメラでは前方しか録画できないのでこれを360°録画できるような構造にすれば良いと考えました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;structure&#34;&gt;Structure&lt;/h2&gt;
+
+&lt;h3 id=&#34;胃カメラ&#34;&gt;胃カメラ&lt;/h3&gt;
+
+&lt;p&gt;胃カメラの内部構造はおおまかにこのような感じになると思います。中身が露出しすぎて飲み込む時に抵抗があまり出ないように黄色くして覆いました。&lt;/p&gt;
+
+&lt;p&gt;①LED電気、②CMOSセンサー、③ボタン電池、④ASIC(無線送信部)、⑤アンテナ、⑥カメラ
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;モニタールーム&#34;&gt;モニタールーム&lt;/h3&gt;
+
+&lt;p&gt;①アンテナ、②基板、③LED電気、④配線、⑤液晶モニター
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera5.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+
+&lt;p&gt;胃の中を、360°モニターで映し出して、自分が胃の中に入っているような感覚で話を聞ける。こうすることによって、より細部まで観察することができる。また、胃の中をイメージして話が聞けるので理解力を促進することができる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera6.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera7.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>初めてのWebサイト制作</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web1/</link>
+      <pubDate>Wed, 16 Sep 2015 16:28:57 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web1/</guid>
+      <description>
+
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;はじめての１からのホームページの作成だったのでこれからも再考しより良いものへ変えていきたいと考えている。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first1.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;カッコよく、まとまりのある&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;自分の中でかっこいいとは、、、&lt;br /&gt;
+大人らしい雰囲気の人。落ち着きがあってクール。落ち着きがあるとはどんなイメージを与えられているのか、大人と子供の反対の立場から考えた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;モノクロを主としてまとめていく上で、インパクトが欲しかったのでアクセントカラーを入れた。アクセントカラーは、自分の雰囲気に合うような色にしようと思ったので、色が与える印象を調べて決めた。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;赤色が人に与える印象&lt;/strong&gt;&lt;br /&gt;
+赤色のイメージは、情熱 などの、燃え上がるようなイメージがある。自分の負けず嫌いで人と競い合うことに熱くなる、といったところが赤色にぴったりであると考えた。また、赤は一番に目を引く色なので、シンプルなデザインの中に入れる色としてはいいと思った。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first3.png&#34; width=&#34;30%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;黒色よりも赤色でアクセントを入れることで名前をより、注目的にする。　&lt;/p&gt;
+
+&lt;h2 id=&#34;ui-design&#34;&gt;UI Design&lt;/h2&gt;
+
+&lt;p&gt;コンセプトをもとにデザインを設計。&lt;br /&gt;
+コンセプトから、&lt;strong&gt;モノクロ&lt;/strong&gt;といったイメージになったのでこれを組み込んでいった。photoshopでのデザイン設計で、自分の中でのイメージを具現化した。ここでの設計をしっかりしておかないと、codingするときにデザインの大幅な変更は大変である。だから、デザイン設計はホームページを作る上で一番重要な作業といえる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first5.png&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first6.png&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first7.png&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;coding&#34;&gt;Coding&lt;/h2&gt;
+
+&lt;p&gt;読みやすく、無駄を少なく&lt;br /&gt;
+UIデザインを決定してから、コードに移す。細かい動きをjQueryで制御した。また、新しい作品をアップするときにより手間を省くことができるようなhtmlの構築をした。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first8.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;GoogleChromeのデベロッパーツールを使用しながら検証&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first9.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unityを使用した3Dゲーム</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</link>
+      <pubDate>Wed, 16 Sep 2015 16:23:07 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</guid>
+      <description>&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe class=&#34;youtube-video&#34; src=&#34;https://www.youtube.com/embed/8-zOJboydcc?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arduinoを使用したセンサー制御</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyArduino1/</link>
+      <pubDate>Tue, 16 Jun 2015 16:16:33 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyArduino1/</guid>
+      <description>&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UojoutGMmsE?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;温度センサーと照度センサーの制御をした。制御した値を可視化できるように7セグメントLEDを使用した。実際に自分の部屋の環境で実験を行った。最初に部屋の温度を暗くして、照度センサーの値を確認した。そのあとにクーラーを最低温度に設定して部屋の温度を下げ、ドライヤーを温度センサー部分に当て温度を上げ実験した。難しかった点は、プログラミングと違って、センサー類はエラーを吐かないのでどうしてしっかりとした値を読み込んでいないのかを調べることが大変だった。今回は、基礎的な使い方を勉強しただけだが、これを用いることによって、問題解決するための手段が増えた。また、センサーを用いて制御できるので温度、湿度などの自然現象はもちろん、人の動きなどを感知したりして制御することもできるので、いろいろな場面での使用ができると感じた。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Frame Worksをやってみた！</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyOF1/</link>
+      <pubDate>Mon, 16 Jun 2014 15:54:31 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyOF1/</guid>
+      <description>&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/cP4nto8ARqA?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって 色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>空間に会う電子ケトルの提案</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductKettleDesign/</link>
+      <pubDate>Fri, 16 May 2014 14:59:31 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductKettleDesign/</guid>
+      <description>
+
+&lt;h2 id=&#34;space-propotion&#34;&gt;Space Propotion&lt;/h2&gt;
+
+&lt;p&gt;高校生から大学生に変わり、気持ちの変化から落ち着いた空間の良さがよりわかるようになり、この「和」といった空間を選びました。また、この昔からの「和」の空間を邪魔しないデザインのケトルを提案しようと思いました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design1.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;「和」の空間を邪魔しない&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;和室はとても落ち着きがあり、ゆったりした気分になります。そういった雰囲気はほかの部屋には出せない、和室の特徴です。その特徴を壊してしまうと和室が和室でなくなってしまうと思います。だから、和室独自の特徴を残しつつ現代の電子ケトルというものを自然に取り入れられるデザインを考えました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;「和」の空間を邪魔しないデザインにするために、「和」という特徴について考えました。「和」の自分の中のイメージとしては「古くからあるもの」「歴史として受け継がれているもの」といったイメージでした。そういったイメージの中で考えていき、思いついたのが「ししおどし」でした。ししおどしは、和の象徴とも言える竹を使っており、水も連想させるのでケトルにするにはいいと考えました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;target-user&#34;&gt;Target User&lt;/h2&gt;
+
+&lt;p&gt;自分のような高校生から大学生にあがり、環境の変化とともに気持ちも変化し今までなんとも思っていなかったことが違って見えたりすると思います。「和室」といった空間もそれと同様に、より好きになった人もいると思います。そういった若い人にも「和」の空間をより現代の生活に近いものにし生活しやすい空間にしようと思いました。&lt;/p&gt;
+
+&lt;h2 id=&#34;sketch&#34;&gt;Sketch&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design4.JPG&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;持ち手を女性の小さい手でも持ちやすいようにすることを意識しました。参考としてペットボトルの形や寸法などを調べました。竹らしさを残すために曲線を意識してデザインしました。蓋は、電子ケトルらしさをなくさないために見えない位置に設置するようなデザインにしました。&lt;/p&gt;
+
+&lt;h2 id=&#34;drawing&#34;&gt;Drawing&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;本体の三面図&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design5.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;土台の三面図&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design6.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;white-rendering&#34;&gt;White Rendering&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;本体部&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design7.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;土台部&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design8.jpg&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mockup&#34;&gt;Mockup&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design9.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design10.png&#34; width=&#34;35%&#34;&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design11.jpg&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -132,45 +395,19 @@
 
 &lt;p&gt;&lt;strong&gt;地面からの距離をとった吸収&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;ケント紙の紙を使って作るということなので
-力の吸収や、分散が重要なカギになると思いました。
-また、卵を割れないようにするには落下して
-地面と接触した時により地面からの衝撃が
-ないようにしなければならないと考えました。
-そのためには、必然的に地面からの距離を
-より長くしたほうが、衝撃を吸収しやすいのでは
-ないかと考えました。&lt;/p&gt;
+&lt;p&gt;ケント紙の紙を使って作るということなので力の吸収や、分散が重要なカギになると思いました。また、卵を割れないようにするには落下して地面と接触した時により地面からの衝撃がないようにしなければならないと考えました。そのためには、必然的に地面からの距離をより長くしたほうが、衝撃を吸収しやすいのではないかと考えました。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design1.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;例として市販に売られている卵の
-プラスチックパッケージを見てみました。
-よく見ると上下に隙間が空いています。
-これは地面と接触した時に直接の衝撃よりも
-空間があいていたほうが卵自体への衝撃は
-和らぐからだと考えました。&lt;/p&gt;
+&lt;p&gt;例として市販に売られている卵のプラスチックパッケージを見てみました。よく見ると上下に隙間が空いています。これは地面と接触した時に直接の衝撃よりも空間があいていたほうが卵自体への衝撃は和らぐからだと考えました。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design2.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;プラスチックパッケージの構造としては
-左のような構造になっており、卵と衝撃の
-間にある空間を入れることで
-力の吸収が行われているのだとと思いました。
-また、卵の上にも空間があいているのは
-上下どちらから落ちても衝撃を和らげることが
-できるからだと思います。&lt;/p&gt;
+&lt;p&gt;プラスチックパッケージの構造としては左のような構造になっており、卵と衝撃の間にある空間を入れることで力の吸収が行われているのだとと思いました。また、卵の上にも空間があいているのは上下どちらから落ちても衝撃を和らげることができるからだと思います。&lt;/p&gt;
 
 &lt;h2 id=&#34;thought&#34;&gt;Thought&lt;/h2&gt;
 
-&lt;p&gt;ケント紙を使って作るという条件なので
-構造がとても重要になってくると思いました。
-そこで考えたのは卵のプラスチックパッケージと
-同じような仕組みを利用して作ろうと考えました。
-衝撃と卵の間に空間を作り、そこの間に
-衝撃を吸収する構造を入れればいいのではないかと
-考えました。衝撃を吸収するということで思いついたのが
-バネの仕組みです。バネをその空間との間に入れより
-衝撃の吸収をしたらいいのではないかと考えました。&lt;/p&gt;
+&lt;p&gt;ケント紙を使って作るという条件なので構造がとても重要になってくると思いました。そこで考えたのは卵のプラスチックパッケージと同じような仕組みを利用して作ろうと考えました。衝撃と卵の間に空間を作り、そこの間に衝撃を吸収する構造を入れればいいのではないかと考えました。衝撃を吸収するということで思いついたのがバネの仕組みです。バネをその空間との間に入れより衝撃の吸収をしたらいいのではないかと考えました。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design3.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
 
@@ -185,33 +422,19 @@
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design6.png&#34; width=&#34;45%&#34;&gt;
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design7.png&#34; width=&#34;45%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;衝撃を和らげるためには
-ケント紙をギザギザに
-折ったものを四方八方に
-覆いました。これにより、
-落下時に衝撃を受けた時、
-ギザギザによって衝撃を
-和らげてくれます。&lt;/p&gt;
+&lt;p&gt;衝撃を和らげるためにはケント紙をギザギザに折ったものを四方八方に覆いました。これにより、落下時に衝撃を受けた時、ギザギザによって衝撃を和らげてくれます。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2・3箱目&lt;/strong&gt;&lt;br /&gt;
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design8.png&#34; width=&#34;30%&#34;&gt;
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design9.png&#34; width=&#34;30%&#34;&gt;
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design10.png&#34; width=&#34;30%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;次に２箱目には前後にバネを、３箱目には左右にバネを、といったように
-一箱に２面ずつバネ板を入れていき、さらに衝撃を和らげるような仕組みにしました。
-２面張ったバネの板との間に１箱目・２箱目の箱を入れていきバネで前後左右が
-覆われるようにしました。このときに入れ方を前後左右の位置にしっかりバネが
-来るようにしなければなりません。（バネの面がかぶるとバネのない面ができてしまう）&lt;/p&gt;
+&lt;p&gt;次に２箱目には前後にバネを、３箱目には左右にバネを、といったように一箱に２面ずつバネ板を入れていき、さらに衝撃を和らげるような仕組みにしました。２面張ったバネの板との間に１箱目・２箱目の箱を入れていきバネで前後左右が覆われるようにしました。このときに入れ方を前後左右の位置にしっかりバネが来るようにしなければなりません。（バネの面がかぶるとバネのない面ができてしまう）&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;4箱目&lt;/strong&gt;&lt;br /&gt;
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design11.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;最後にバネ板が入っていない面（上下）に
-バネ板が入るように収納していく。
-入れ終わると最終的に直方体の箱になり
-四方八方をバネ板で覆われているといった
-仕組みになっている。&lt;/p&gt;
+&lt;p&gt;最後にバネ板が入っていない面（上下）にバネ板が入るように収納していく。入れ終わると最終的に直方体の箱になり四方八方をバネ板で覆われているといった仕組みになっている。&lt;/p&gt;
 
 &lt;h2 id=&#34;drawing&#34;&gt;Drawing&lt;/h2&gt;
 
@@ -232,10 +455,7 @@
 &lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design16.png&#34; width=&#34;45%&#34;&gt;
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/package_design17.png&#34; width=&#34;45%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;最終的にはシンプルな形になりました。自分の思い通りの形にできたので良かったです。しかし、
-この形だと角が下になって落ちた時と、面が下になって落ちた時とでは卵にかかる力の大きさが
-変わってしまいます。そこを考えて作れたら良かったと思います。毎回同じように
-落ちるようにすればもっと安定して割れないプロダクトを提案できたと思います。&lt;/p&gt;
+&lt;p&gt;最終的にはシンプルな形になりました。自分の思い通りの形にできたので良かったです。しかし、この形だと角が下になって落ちた時と、面が下になって落ちた時とでは卵にかかる力の大きさが変わってしまいます。そこを考えて作れたら良かったと思います。毎回同じように落ちるようにすればもっと安定して割れないプロダクトを提案できたと思います。&lt;/p&gt;
 </description>
     </item>
     

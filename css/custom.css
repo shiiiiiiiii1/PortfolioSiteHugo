@@ -129,9 +129,11 @@
     font-weight: bold; }
   .content_head_mine .content_elements_mine .span_content_mine {
     display: inline-block;
-    margin: 15px 0;
+    margin: 15px 0 0;
     margin-right: 25px; }
-  .content_head_mine .content_elements_mine .a_web_mine {
+  .content_head_mine .content_elements_mine .a_content_mine {
+    display: inline-block;
+    margin-right: 25px;
     cursor: pointer; }
   @media screen and (max-width: 767px) {
     .content_head_mine .content_elements_mine {
@@ -139,7 +141,7 @@
       .content_head_mine .content_elements_mine .span_content_mine {
         display: block;
         margin: 8px 0 0; }
-      .content_head_mine .content_elements_mine .a_web_mine {
+      .content_head_mine .content_elements_mine .a_content_mine {
         display: block;
         margin: 8px 0 0; } }
 
@@ -154,6 +156,21 @@
   .box-masonry-tags span {
     margin-right: 12px;
     font-size: 14px; }
+
+/*
+  youtube 埋め込みのレスポンシブ
+*/
+.youtube_mine {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  margin-bottom: 20px; }
+  .youtube_mine iframe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100% !important;
+    height: 100% !important; }
 
 /*
   color setting ----------------------------------------------------------------------

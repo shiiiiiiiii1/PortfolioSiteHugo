@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gugen on My Portfolio Site</title>
+    <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/gugen/index.xml</link>
+    <description>Recent content in Gugen on My Portfolio Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017 ShoichiYokobori</copyright>
+    <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/gugen/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ACTEE</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductActee/</link>
+      <pubDate>Fri, 16 Sep 2016 16:44:41 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductActee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

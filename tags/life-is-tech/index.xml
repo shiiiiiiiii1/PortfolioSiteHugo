@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life Is Tech on My Portfolio Site</title>
+    <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/life-is-tech/index.xml</link>
+    <description>Recent content in Life Is Tech on My Portfolio Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017 ShoichiYokobori</copyright>
+    <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/life-is-tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Draw Sketch</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</link>
+      <pubDate>Tue, 16 Feb 2016 16:41:47 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</guid>
+      <description>&lt;p&gt;初めてのwebアプリケーションの制作だった。Life is techでのインターンの内容だったので railsを使用せずにsinatraで始めた。Draw Sketchは簡単に言うとtwitterやinstagramなどの webサービスだ。twitterはつぶやくこと中心、instagramは写真を共有することが中心。 今回のDraw Sketchは、絵を描いてそれを共有するサービスである。現代のアプリケーションの 流れを考えたときに、絵を描くことが好きな人はきっとそれを共有したいと思うのではないのか といった考えのもと制作しようと思った。また、これを制作後、Rubyに興味をもち、Railsの勉強をした。 現在は、Railsを使用した企業でアルバイトをしている。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

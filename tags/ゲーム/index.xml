@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲーム on My Portfolio Site</title>
+    <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml</link>
+    <description>Recent content in ゲーム on My Portfolio Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017 ShoichiYokobori</copyright>
+    <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unityを使用した3Dゲーム</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</link>
+      <pubDate>Wed, 16 Sep 2015 16:23:07 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</guid>
+      <description>&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe class=&#34;youtube-video&#34; src=&#34;https://www.youtube.com/embed/8-zOJboydcc?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>照度センサー on My Portfolio Site</title>
+    <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E7%85%A7%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/index.xml</link>
+    <description>Recent content in 照度センサー on My Portfolio Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017 ShoichiYokobori</copyright>
+    <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E7%85%A7%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>学部生の卒業制作</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductGraduateDepartment/</link>
+      <pubDate>Thu, 16 Feb 2017 18:50:00 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductGraduateDepartment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arduinoを使用したセンサー制御</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyArduino1/</link>
+      <pubDate>Tue, 16 Jun 2015 16:16:33 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyArduino1/</guid>
+      <description>&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UojoutGMmsE?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;温度センサーと照度センサーの制御をした。制御した値を可視化できるように7セグメントLEDを使用した。実際に自分の部屋の環境で実験を行った。最初に部屋の温度を暗くして、照度センサーの値を確認した。そのあとにクーラーを最低温度に設定して部屋の温度を下げ、ドライヤーを温度センサー部分に当て温度を上げ実験した。難しかった点は、プログラミングと違って、センサー類はエラーを吐かないのでどうしてしっかりとした値を読み込んでいないのかを調べることが大変だった。今回は、基礎的な使い方を勉強しただけだが、これを用いることによって、問題解決するための手段が増えた。また、センサーを用いて制御できるので温度、湿度などの自然現象はもちろん、人の動きなどを感知したりして制御することもできるので、いろいろな場面での使用ができると感じた。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
