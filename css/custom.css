@@ -127,23 +127,25 @@
     margin-right: 15px;
     font-size: 16px;
     font-weight: bold; }
-  .content_head_mine .content_elements_mine .span_content_mine {
-    display: inline-block;
-    margin: 15px 0 0;
-    margin-right: 25px; }
-  .content_head_mine .content_elements_mine .a_content_mine {
-    display: inline-block;
-    margin-right: 25px;
-    cursor: pointer; }
-  @media screen and (max-width: 767px) {
-    .content_head_mine .content_elements_mine {
-      margin-top: 15px; }
-      .content_head_mine .content_elements_mine .span_content_mine {
-        display: block;
-        margin: 8px 0 0; }
-      .content_head_mine .content_elements_mine .a_content_mine {
-        display: block;
-        margin: 8px 0 0; } }
+  .content_head_mine .content_elements_mine {
+    margin-bottom: 30px; }
+    .content_head_mine .content_elements_mine .span_content_mine {
+      display: inline-block;
+      margin: 15px 0 0;
+      margin-right: 25px; }
+    .content_head_mine .content_elements_mine .a_content_mine {
+      display: inline-block;
+      margin-right: 25px;
+      cursor: pointer; }
+    @media screen and (max-width: 767px) {
+      .content_head_mine .content_elements_mine {
+        margin-top: 15px; }
+        .content_head_mine .content_elements_mine .span_content_mine {
+          display: block;
+          margin: 8px 0 0; }
+        .content_head_mine .content_elements_mine .a_content_mine {
+          display: block;
+          margin: 8px 0 0; } }
 
 /*
   homeのページのtags表示
@@ -171,6 +173,22 @@
     right: 0;
     width: 100% !important;
     height: 100% !important; }
+
+/*
+  default 設定
+*/
+h1, .h1, h2, .h2, h3, .h3 {
+  margin-top: 25px;
+  margin-bottom: 15px; }
+
+p {
+  margin-bottom: 15px; }
+
+ol, ul {
+  margin-bottom: 20px; }
+
+.sidebar-heading {
+  margin-top: 0; }
 
 /*
   color setting ----------------------------------------------------------------------

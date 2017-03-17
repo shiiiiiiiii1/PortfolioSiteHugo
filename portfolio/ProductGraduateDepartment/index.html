@@ -116,6 +116,128 @@
           </div>
         </div>
         
+
+<h2 id="background">Background</h2>
+
+<p>近年では、カメラを使用した見守りシステムが多く存在します。なぜカメラを使用したものが増えているかというと、<strong>視覚的情報</strong>として正確に情報を伝えることができるからです。<br />
+例として、カメラを使用した見守りシステムを3つ紹介します。</p>
+
+<h3 id="ペットを対象とした見守りシステム">ペットを対象とした見守りシステム</h3>
+
+<p><img src="/PortfolioSiteHugo/img/portfolio/graduate_department1.jpg" width="100%"><br />
+<strong>Qwatch I-O DATA：<a href="http://www.iodata.jp/ssp/lancam/qwatch/pet.htm">http://www.iodata.jp/ssp/lancam/qwatch/pet.htm</a></strong></p>
+
+<h3 id="盗難防止用の見守りシステム">盗難防止用の見守りシステム</h3>
+
+<p><img src="/PortfolioSiteHugo/img/portfolio/graduate_department2.jpg" width="100%"><br />
+<strong>VL-WD712K Panasonic：<a href="http://panasonic.jp/sensor/wd712/">http://panasonic.jp/sensor/wd712/</a></strong></p>
+
+<h3 id="人を対象とした見守りシステム">人を対象とした見守りシステム</h3>
+
+<p><img src="/PortfolioSiteHugo/img/portfolio/graduate_department3.png" width="100%"><br />
+<strong>KX-HJC200K-W Panasonic：<a href="http://panasonic.jp/hns/hjc200k/">http://panasonic.jp/hns/hjc200k/</a></strong></p>
+
+<p>今回はこれらの中から <strong>人を対象とした見守りシステム</strong> について焦点を当てて考えていきました。人を対象とした見守りシステムには、<strong>見守る人</strong> と <strong>見守られる人</strong> の2つの立場があります。</p>
+
+<p>これらの人が見守りシステムを使用する理由<br />
+<strong>見守る人</strong></p>
+
+<ul>
+<li>必要な情報を得るために使用。</li>
+</ul>
+
+<p><strong>見守られる人</strong></p>
+
+<ul>
+<li>必要な情報を相手に伝えるために使用。</li>
+</ul>
+
+<p>これらのことから考えられることは、人を対象とした見守りに <strong>カメラが本当に必要あるのか</strong> ということです。</p>
+
+<p>カメラを使用する必要がない理由として</p>
+
+<ul>
+<li>情報を事細かに伝えることができるため、見守られる側の人のプライバシーがないこと。</li>
+<li>見守る側の人は、見守りたい時間ずっと画面の前にいて監視していなければならないこと。</li>
+</ul>
+
+<p>これらが挙げられます。</p>
+
+<h2 id="theme">Theme</h2>
+
+<p>そこで今回私が研究するテーマは、</p>
+
+<p><strong>視覚的情報ではなく、文章化した情報で伝達する。</strong></p>
+
+<p>ということです。<br />
+映像などの視覚的情報では、事細かに相手に伝えてしまうため、違った方法を用いて文章化し、それを伝達することで問題の解決ができると考えました。</p>
+
+<p><img src="/PortfolioSiteHugo/img/portfolio/graduate_department4.png" width="100%"></p>
+
+<h2 id="system">System</h2>
+
+<ol>
+<li><p>センサー情報を取得<br />
+<img src="/PortfolioSiteHugo/img/portfolio/graduate_department5.png" width="50%"></p></li>
+
+<li><p>文章化する<br />
+<img src="/PortfolioSiteHugo/img/portfolio/graduate_department6.png" width="50%"></p></li>
+
+<li><p>Twitterへ投稿<br />
+<img src="/PortfolioSiteHugo/img/portfolio/graduate_department7.png" width="50%"></p></li>
+
+<li><p>相手に情報を伝える<br />
+<img src="/PortfolioSiteHugo/img/portfolio/graduate_department8.png" width="50%"></p></li>
+</ol>
+
+<h2 id="prototype">Prototype</h2>
+
+<h3 id="使用したセンサー">使用したセンサー</h3>
+
+<ul>
+<li>温湿度気圧センサー</li>
+<li>照度センサー</li>
+<li>加速度センサー</li>
+<li>音センサー</li>
+<li>赤外線センサー</li>
+</ul>
+
+<h3 id="twitterへの投稿">Twitterへの投稿</h3>
+
+<p>Twitterへの投稿は、大きく分けて二つの手順に分けて行いました。</p>
+
+<p>1つ目は、インターネットへの接続です。これは、無線付きモジュールである <strong>ESP-WROOM-02</strong> を使用しました。IDEは、Arduinoを使用しインターネットへ接続しました。</p>
+
+<p>2つ目は、Twitterへの投稿です。Twitterへの接続は、Twitterが公開しているAPIを使用して行いました。</p>
+
+<h3 id="テストの様子">テストの様子</h3>
+
+<div class="youtube_mine">
+  <iframe src="https://www.youtube.com/embed/0rJZhr2Ge4k?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<h3 id="今回実装できた内容">今回実装できた内容</h3>
+
+<ul>
+<li>電気の消灯</li>
+<li>エアコンのオンオフ</li>
+<li>窓の開閉</li>
+<li>ドアの開閉</li>
+</ul>
+
+<h2 id="task">Task</h2>
+
+<p>今後の課題は大きく分けて2つあります。</p>
+
+<ul>
+<li>より多くの行動をセンサーで読み取る。</li>
+<li>環境が変わっても柔軟に動作できるようにしなければならない。</li>
+</ul>
+
+<h2 id="prospect">Prospect</h2>
+
+<p>今後の展望としては、いろいろな環境に対応させるためにき、機械学習を使用していけたら良いと考えています。</p>
+
         
       </div>
     </div>
