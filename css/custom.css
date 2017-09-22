@@ -185,7 +185,11 @@ p {
   margin-bottom: 15px; }
 
 ol, ul {
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  padding-left: 25px; }
+
+strong {
+  font-size: 23px; }
 
 .sidebar-heading {
   margin-top: 0; }
