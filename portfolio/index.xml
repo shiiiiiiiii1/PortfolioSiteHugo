@@ -409,68 +409,6 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
     </item>
     
     <item>
-      <title>Rhinocerosを使用した3Dモデリング</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</link>
-      <pubDate>Fri, 16 Oct 2015 16:34:30 +0900</pubDate>
-      
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</guid>
-      <description>
-
-&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-
-&lt;p&gt;多くの人のほとんどが人生で一度は利用するものそういった身近な製品の改良したいと考えました。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;公共の施設&lt;/li&gt;
-&lt;li&gt;当たり前に行うこと&lt;/li&gt;
-&lt;li&gt;必然的に行わなければならないこと&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;そこで着目したのが病院の診察です。病院は怪我をしたり、体調を崩したら必然的に行かなければならなくなると思います。その多くの人が利用する機関に、まだ改良できる部分はあるのではないかと考えました。&lt;/p&gt;
-
-&lt;p&gt;そこで私は自分の将来を考え病院に行く時期を考えました。必ず病院に行く時は人間ドックで検査をする時だと思いました。
-その時に胃カメラを飲み込んで見せられた時にイメージがつきにくいのではないかと思い、その辺りの改善をしようと思いました。&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera1.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;自分の体を自分で理解&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;自分は将来的に絶対通るであろう道の人間ドックについて考えました。その時に胃の中の説明はよくわからないし、ここの辺りと言われてもいまいち想像がつかないと思いました。そういった時に胃の中に入りながら説明されればより親近感が湧いてわかりやすい説明がしやすいのではないかと考えました。そこで、胃の中にいるような感覚で説明できるようなものを提案したいと考えました。しかし、現代の胃カメラでは前方しか録画できないのでこれを360°録画できるような構造にすれば良いと考えました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;structure&#34;&gt;Structure&lt;/h2&gt;
-
-&lt;h3 id=&#34;胃カメラ&#34;&gt;胃カメラ&lt;/h3&gt;
-
-&lt;p&gt;胃カメラの内部構造はおおまかにこのような感じになると思います。中身が露出しすぎて飲み込む時に抵抗があまり出ないように黄色くして覆いました。&lt;/p&gt;
-
-&lt;p&gt;①LED電気、②CMOSセンサー、③ボタン電池、④ASIC(無線送信部)、⑤アンテナ、⑥カメラ
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;モニタールーム&#34;&gt;モニタールーム&lt;/h3&gt;
-
-&lt;p&gt;①アンテナ、②基板、③LED電気、④配線、⑤液晶モニター
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera5.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-
-&lt;p&gt;胃の中を、360°モニターで映し出して、自分が胃の中に入っているような感覚で話を聞ける。こうすることによって、より細部まで観察することができる。また、胃の中をイメージして話が聞けるので理解力を促進することができる。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera6.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera7.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>初めてのWebサイト制作</title>
       <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioFirst/</link>
       <pubDate>Wed, 16 Sep 2015 16:28:57 +0900</pubDate>
@@ -553,6 +491,68 @@ UIデザインを決定してから、コードに移す。細かい動きをjQu
 &lt;/div&gt;
 
 &lt;p&gt;温度センサーと照度センサーの制御をした。制御した値を可視化できるように7セグメントLEDを使用した。実際に自分の部屋の環境で実験を行った。最初に部屋の温度を暗くして、照度センサーの値を確認した。そのあとにクーラーを最低温度に設定して部屋の温度を下げ、ドライヤーを温度センサー部分に当て温度を上げ実験した。難しかった点は、プログラミングと違って、センサー類はエラーを吐かないのでどうしてしっかりとした値を読み込んでいないのかを調べることが大変だった。今回は、基礎的な使い方を勉強しただけだが、これを用いることによって、問題解決するための手段が増えた。また、センサーを用いて制御できるので温度、湿度などの自然現象はもちろん、人の動きなどを感知したりして制御することもできるので、いろいろな場面での使用ができると感じた。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rhinocerosを使用した3Dモデリング</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</link>
+      <pubDate>Thu, 16 Oct 2014 16:34:30 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</guid>
+      <description>
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;多くの人のほとんどが人生で一度は利用するものそういった身近な製品の改良したいと考えました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;公共の施設&lt;/li&gt;
+&lt;li&gt;当たり前に行うこと&lt;/li&gt;
+&lt;li&gt;必然的に行わなければならないこと&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;そこで着目したのが病院の診察です。病院は怪我をしたり、体調を崩したら必然的に行かなければならなくなると思います。その多くの人が利用する機関に、まだ改良できる部分はあるのではないかと考えました。&lt;/p&gt;
+
+&lt;p&gt;そこで私は自分の将来を考え病院に行く時期を考えました。必ず病院に行く時は人間ドックで検査をする時だと思いました。
+その時に胃カメラを飲み込んで見せられた時にイメージがつきにくいのではないかと思い、その辺りの改善をしようと思いました。&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera1.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;自分の体を自分で理解&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;自分は将来的に絶対通るであろう道の人間ドックについて考えました。その時に胃の中の説明はよくわからないし、ここの辺りと言われてもいまいち想像がつかないと思いました。そういった時に胃の中に入りながら説明されればより親近感が湧いてわかりやすい説明がしやすいのではないかと考えました。そこで、胃の中にいるような感覚で説明できるようなものを提案したいと考えました。しかし、現代の胃カメラでは前方しか録画できないのでこれを360°録画できるような構造にすれば良いと考えました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;structure&#34;&gt;Structure&lt;/h2&gt;
+
+&lt;h3 id=&#34;胃カメラ&#34;&gt;胃カメラ&lt;/h3&gt;
+
+&lt;p&gt;胃カメラの内部構造はおおまかにこのような感じになると思います。中身が露出しすぎて飲み込む時に抵抗があまり出ないように黄色くして覆いました。&lt;/p&gt;
+
+&lt;p&gt;①LED電気、②CMOSセンサー、③ボタン電池、④ASIC(無線送信部)、⑤アンテナ、⑥カメラ
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;モニタールーム&#34;&gt;モニタールーム&lt;/h3&gt;
+
+&lt;p&gt;①アンテナ、②基板、③LED電気、④配線、⑤液晶モニター
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera5.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+
+&lt;p&gt;胃の中を、360°モニターで映し出して、自分が胃の中に入っているような感覚で話を聞ける。こうすることによって、より細部まで観察することができる。また、胃の中をイメージして話が聞けるので理解力を促進することができる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera6.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera7.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
