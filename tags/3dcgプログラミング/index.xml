@@ -11,15 +11,15 @@
     
     <item>
       <title>Unityを使用した3Dゲーム</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_3DGame/</link>
       <pubDate>Wed, 16 Sep 2015 16:23:07 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_3DGame/</guid>
       <description>&lt;div class=&#34;youtube_mine&#34;&gt;
   &lt;iframe class=&#34;youtube-video&#34; src=&#34;https://www.youtube.com/embed/8-zOJboydcc?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
+&lt;p&gt;Unityを授業で初めて使った時の成果物。3Dゲームを作るという課題で私は、上から落ちてくる球をキャッチするというゲームを作成した。また、黄色い球をたまに出して点数を高く設定することで面白さを出した。&lt;/p&gt;
 </description>
     </item>
     

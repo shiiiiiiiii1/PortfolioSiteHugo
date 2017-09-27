@@ -7,15 +7,95 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2017 ShoichiYokobori</copyright>
-    <lastBuildDate>Sat, 16 Sep 2017 22:47:03 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 18:55:36 +0900</lastBuildDate>
     <atom:link href="https://shiiiiiiiii1.github.io/PortfolioSiteHugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>仕事のグローバル化に対応したサービス</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Hackathon_KONICA/</link>
+      <pubDate>Wed, 27 Sep 2017 18:55:36 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Hackathon_KONICA/</guid>
+      <description>
+
+&lt;h1 id=&#34;テーマ&#34;&gt;テーマ&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;未来の働き方を想起させるサービスの提案&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;アイデアコンセプト&#34;&gt;アイデアコンセプト&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;海外とのプロジェクトのやり取りをもっと円滑に&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
+
+&lt;p&gt;未来の働き方を想像した時に、現在よりもさらに他国との協力したプロジェクトが増えると考えました。&lt;/p&gt;
+
+&lt;h1 id=&#34;ターゲット&#34;&gt;ターゲット&lt;/h1&gt;
+
+&lt;p&gt;上記の背景から今回想定したターゲットは&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;多国籍企業とのやり取りを行なっている&lt;/li&gt;
+&lt;li&gt;30代男性独身&lt;/li&gt;
+&lt;li&gt;在宅ワークをしている&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;といった属性を持っている人をターゲットとした。&lt;/p&gt;
+
+&lt;h2 id=&#34;ターゲットが抱える問題&#34;&gt;ターゲットが抱える問題&lt;/h2&gt;
+
+&lt;p&gt;距離が遠いので現在の時刻や相手が何をしているのかわからない。そのため連絡したい時に、して良いのかがわからない。&lt;/p&gt;
+
+&lt;h1 id=&#34;プロダクトの説明&#34;&gt;プロダクトの説明&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;相手の状態を知ることのできるプロダクト&lt;/strong&gt;&lt;br /&gt;
+互いのユーザーがそれぞれそのプロダクトを持っている。
+机の上にそれを置くことにより、デスクで作業をしているときは相手にそれが通知される。
+また、作業を行なっている時間は、勤務時間と見なし連絡できる時間として知らせる。&lt;/p&gt;
+
+&lt;h1 id=&#34;使用の流れ&#34;&gt;使用の流れ&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;相手の情報（プロジェクト名、氏名、設定色）を指定する。&lt;/li&gt;
+&lt;li&gt;プロダクトをいつもの作業スペースにおく。&lt;/li&gt;
+&lt;li&gt;いつも通りに作業していると、センサーが反応し作業状態を伝える。&lt;/li&gt;
+&lt;li&gt;また、相手も作業をしているとそれがわかる。&lt;/li&gt;
+&lt;li&gt;作業している状態になったら、それを設定したLEDの色として見ることができる。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;競合サービス&#34;&gt;競合サービス&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;slack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slackの問題点&#34;&gt;slackの問題点&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;違うプロジェクトを開いていても、全部のプロジェクトが「active」状態になってしまう。&lt;/li&gt;
+&lt;li&gt;アプリケーションを開かないと相手の状態がわからない。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slackとの差別化&#34;&gt;slackとの差別化&lt;/h2&gt;
+
+&lt;p&gt;プロダクトとして落とし込むことによって、自然な流れで相手の状態を知ることができる。&lt;/p&gt;
+
+&lt;h1 id=&#34;展望&#34;&gt;展望&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LEDの部分をコニカミノルタの可視化技術を使ってよりわかりやすく使いやすくする。&lt;/li&gt;
+&lt;li&gt;登録をiOSアプリ、Androidアプリで行えるようにする。&lt;/li&gt;
+&lt;li&gt;加速度センサを使ったりしてより正確な情報を相手に伝えるようにする。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ちょっとコースター</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/PlanningComponentToy/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Planning_ComponentToy/</link>
       <pubDate>Sat, 16 Sep 2017 22:47:03 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/PlanningComponentToy/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Planning_ComponentToy/</guid>
       <description>
 
 &lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
@@ -24,8 +104,8 @@
 
 &lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
 
-&lt;p&gt;チームメンバーが子供の頃に体験した経験をもとに、こういう背景ってあるよねっていうことを話し合いながら考えました。&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/PlanningComponentToy_Background.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;チームメンバーが子供の頃に体験した経験をもとに、こういう背景ってあるよねっていうことを話し合いながら考えました。
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Planning_ComponentToy1.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;遊園地が近くにないところに住んでいるため、遊園地に行く時がとても貴重で楽しみにしている。そんな中いざ行ってみて楽しもうとするとジェットコースターに身長制限がかかっていてお姉ちゃんは乗れるけど自分は乗れない。
@@ -45,7 +125,7 @@
 &lt;h1 id=&#34;おもちゃ説明&#34;&gt;おもちゃ説明&lt;/h1&gt;
 
 &lt;p&gt;現実世界ではジェットコースターに乗れない子供にもジェットコースターのワクワクを味わってもらいたい。
-また、みんなが乗ってるあの感覚を味わいたい。という思いを実現するためのものです。&lt;br /&gt;
+また、みんなが乗ってるあの感覚を味わいたい。という思いを実現するためのものです。
 使い方としては、&lt;/p&gt;
 
 &lt;ol&gt;
@@ -68,7 +148,7 @@
 
 &lt;h1 id=&#34;stp&#34;&gt;STP&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/PlanningComponentToy_STP.jpeg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Planning_ComponentToy2.jpeg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;価格設定&#34;&gt;価格設定&lt;/h1&gt;
 
@@ -215,10 +295,10 @@
     
     <item>
       <title>学部生の卒業制作</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductGraduateDepartment/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_GraduateDepartment/</link>
       <pubDate>Thu, 16 Feb 2017 18:50:00 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductGraduateDepartment/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_GraduateDepartment/</guid>
       <description>
 
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
@@ -228,17 +308,17 @@
 
 &lt;h3 id=&#34;ペットを対象とした見守りシステム&#34;&gt;ペットを対象とした見守りシステム&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department1.jpg&#34; width=&#34;100%&#34;&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment1.jpg&#34; width=&#34;100%&#34;&gt;&lt;br /&gt;
 &lt;strong&gt;Qwatch I-O DATA：&lt;a href=&#34;http://www.iodata.jp/ssp/lancam/qwatch/pet.htm&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;盗難防止用の見守りシステム&#34;&gt;盗難防止用の見守りシステム&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department2.jpg&#34; width=&#34;100%&#34;&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment2.jpg&#34; width=&#34;100%&#34;&gt;&lt;br /&gt;
 &lt;strong&gt;VL-WD712K Panasonic：&lt;a href=&#34;http://panasonic.jp/sensor/wd712/&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;人を対象とした見守りシステム&#34;&gt;人を対象とした見守りシステム&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department3.png&#34; width=&#34;100%&#34;&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment3.jpg&#34; width=&#34;100%&#34;&gt;&lt;br /&gt;
 &lt;strong&gt;KX-HJC200K-W Panasonic：&lt;a href=&#34;http://panasonic.jp/hns/hjc200k/&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;今回はこれらの中から &lt;strong&gt;人を対象とした見守りシステム&lt;/strong&gt; について焦点を当てて考えていきました。人を対象とした見守りシステムには、&lt;strong&gt;見守る人&lt;/strong&gt; と &lt;strong&gt;見守られる人&lt;/strong&gt; の2つの立場があります。&lt;/p&gt;
@@ -276,22 +356,22 @@
 &lt;p&gt;ということです。&lt;br /&gt;
 映像などの視覚的情報では、事細かに相手に伝えてしまうため、違った方法を用いて文章化し、それを伝達することで問題の解決ができると考えました。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment4.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;system&#34;&gt;System&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;センサー情報を取得&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department5.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment5.jpg&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;文章化する&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department6.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment6.jpg&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Twitterへ投稿&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department7.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment7.jpg&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;相手に情報を伝える&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/graduate_department8.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_GraduateDepartment8.jpg&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;prototype&#34;&gt;Prototype&lt;/h2&gt;
@@ -357,10 +437,10 @@
     
     <item>
       <title>ACTEE</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductActee/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_ACTEE/</link>
       <pubDate>Fri, 16 Sep 2016 16:44:41 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductActee/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_ACTEE/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -394,13 +474,13 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
 
 &lt;p&gt;ノーマルモードでは投げ方の良し悪しを判定し、色を変化させ、反応を返します。投げ方が良くないと赤に変化し、普通だと黄色、うまく投げられた時は青色に変化します。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/actee1.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_ACTEE1.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;sugoroku&#34;&gt;Sugoroku&lt;/h3&gt;
 
 &lt;p&gt;すごろくモードではノーマルモードで判断した投げ方の良し悪しから点数化し、その点数に合わせて赤いライトが点灯します。また赤く点灯するライトの数が最大になるとフラッシュライトになり、ポイントがリセットします。仲間内で誰が投げた時にフラッシュライトになったのか判定して遊ぶことができます。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/actee2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_ACTEE2.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;bomb&#34;&gt;Bomb&lt;/h3&gt;
 
@@ -410,43 +490,43 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
 
 &lt;p&gt;アートモードは動きに応じてライトの色が変化するモードです。素早く動かせば動かすだけ様々な色に変化し、ゆっくり動かすと色の変化も穏やかになります。自由に動かし光の変化を楽しむことと、一眼カメラの長時間露光モードかスマートフォンアプリで光の軌跡を撮影することで美しいアートを描くことができます。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/actee3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_ACTEE3.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;structure&#34;&gt;Structure&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/actee4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_ACTEE4.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>レスポンシブデザインを使用したサイト</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web2/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioSecond/</link>
       <pubDate>Thu, 16 Jun 2016 16:44:23 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web2/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioSecond/</guid>
       <description>&lt;p&gt;一回目に制作した時は、レスポンシブデザインに対応していなかったので、今回はレスポンシブデザインに対応させることを目標として行いました。また、SCSSを使用することでより時間の短縮をしてデザインの実装をしていきました。classも指定するだけで決まったデザインになるようにcssを組んでいきました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Draw Sketch</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_Drawsketch/</link>
       <pubDate>Tue, 16 Feb 2016 16:41:47 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_Drawsketch/</guid>
       <description>&lt;p&gt;初めてのwebアプリケーションの制作だった。Life is techでのインターンの内容だったので railsを使用せずにsinatraで始めた。Draw Sketchは簡単に言うとtwitterやinstagramなどの webサービスだ。twitterはつぶやくこと中心、instagramは写真を共有することが中心。 今回のDraw Sketchは、絵を描いてそれを共有するサービスである。現代のアプリケーションの 流れを考えたときに、絵を描くことが好きな人はきっとそれを共有したいと思うのではないのか といった考えのもと制作しようと思った。また、これを制作後、Rubyに興味をもち、Railsの勉強をした。 現在は、Railsを使用した企業でアルバイトをしている。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rhinocerosを使用した3Dモデリング</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product3DmodelCamera/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</link>
       <pubDate>Fri, 16 Oct 2015 16:34:30 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product3DmodelCamera/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</guid>
       <description>
 
-&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 
 &lt;p&gt;多くの人のほとんどが人生で一度は利用するものそういった身近な製品の改良したいと考えました。&lt;/p&gt;
 
@@ -458,12 +538,13 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
 
 &lt;p&gt;そこで着目したのが病院の診察です。病院は怪我をしたり、体調を崩したら必然的に行かなければならなくなると思います。その多くの人が利用する機関に、まだ改良できる部分はあるのではないかと考えました。&lt;/p&gt;
 
-&lt;p&gt;そこで私は自分の将来を考え病院に行く時期を考えました。必ず病院に行く時は人間ドックで検査をする時だと思いました。その時に胃カメラを飲み込んで見せられた時にイメージがつきにくいのではないかと思い、その辺りの改善をしようと思いました。&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera1.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;そこで私は自分の将来を考え病院に行く時期を考えました。必ず病院に行く時は人間ドックで検査をする時だと思いました。
+その時に胃カメラを飲み込んで見せられた時にイメージがつきにくいのではないかと思い、その辺りの改善をしようと思いました。&lt;br /&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera1.png&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
 
@@ -471,7 +552,7 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
 
 &lt;p&gt;自分は将来的に絶対通るであろう道の人間ドックについて考えました。その時に胃の中の説明はよくわからないし、ここの辺りと言われてもいまいち想像がつかないと思いました。そういった時に胃の中に入りながら説明されればより親近感が湧いてわかりやすい説明がしやすいのではないかと考えました。そこで、胃の中にいるような感覚で説明できるようなものを提案したいと考えました。しかし、現代の胃カメラでは前方しか録画できないのでこれを360°録画できるような構造にすれば良いと考えました。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;structure&#34;&gt;Structure&lt;/h2&gt;
 
@@ -480,38 +561,38 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
 &lt;p&gt;胃カメラの内部構造はおおまかにこのような感じになると思います。中身が露出しすぎて飲み込む時に抵抗があまり出ないように黄色くして覆いました。&lt;/p&gt;
 
 &lt;p&gt;①LED電気、②CMOSセンサー、③ボタン電池、④ASIC(無線送信部)、⑤アンテナ、⑥カメラ
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;モニタールーム&#34;&gt;モニタールーム&lt;/h3&gt;
 
 &lt;p&gt;①アンテナ、②基板、③LED電気、④配線、⑤液晶モニター
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera5.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera5.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
 
 &lt;p&gt;胃の中を、360°モニターで映し出して、自分が胃の中に入っているような感覚で話を聞ける。こうすることによって、より細部まで観察することができる。また、胃の中をイメージして話が聞けるので理解力を促進することができる。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera6.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera6.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/3d_camera7.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera7.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>初めてのWebサイト制作</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web1/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioFirst/</link>
       <pubDate>Wed, 16 Sep 2015 16:28:57 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web1/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioFirst/</guid>
       <description>
 
 &lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
 
 &lt;p&gt;はじめての１からのホームページの作成だったのでこれからも再考しより良いものへ変えていきたいと考えている。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first1.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst1.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
 
@@ -520,14 +601,14 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
 &lt;p&gt;自分の中でかっこいいとは、、、&lt;br /&gt;
 大人らしい雰囲気の人。落ち着きがあってクール。落ち着きがあるとはどんなイメージを与えられているのか、大人と子供の反対の立場から考えた。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst2.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;モノクロを主としてまとめていく上で、インパクトが欲しかったのでアクセントカラーを入れた。アクセントカラーは、自分の雰囲気に合うような色にしようと思ったので、色が与える印象を調べて決めた。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;赤色が人に与える印象&lt;/strong&gt;&lt;br /&gt;
 赤色のイメージは、情熱 などの、燃え上がるようなイメージがある。自分の負けず嫌いで人と競い合うことに熱くなる、といったところが赤色にぴったりであると考えた。また、赤は一番に目を引く色なので、シンプルなデザインの中に入れる色としてはいいと思った。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first3.png&#34; width=&#34;30%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst3.jpg&#34; width=&#34;30%&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;黒色よりも赤色でアクセントを入れることで名前をより、注目的にする。　&lt;/p&gt;
 
@@ -536,47 +617,47 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
 &lt;p&gt;コンセプトをもとにデザインを設計。&lt;br /&gt;
 コンセプトから、&lt;strong&gt;モノクロ&lt;/strong&gt;といったイメージになったのでこれを組み込んでいった。photoshopでのデザイン設計で、自分の中でのイメージを具現化した。ここでの設計をしっかりしておかないと、codingするときにデザインの大幅な変更は大変である。だから、デザイン設計はホームページを作る上で一番重要な作業といえる。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first4.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst4.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first5.png&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst5.jpg&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first6.png&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst6.jpg&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first7.png&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst7.jpg&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;coding&#34;&gt;Coding&lt;/h2&gt;
 
 &lt;p&gt;読みやすく、無駄を少なく&lt;br /&gt;
 UIデザインを決定してから、コードに移す。細かい動きをjQueryで制御した。また、新しい作品をアップするときにより手間を省くことができるようなhtmlの構築をした。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first8.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst8.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;GoogleChromeのデベロッパーツールを使用しながら検証&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/web_first9.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Web_PortfolioFirst9.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unityを使用した3Dゲーム</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_3DGame/</link>
       <pubDate>Wed, 16 Sep 2015 16:23:07 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_3DGame/</guid>
       <description>&lt;div class=&#34;youtube_mine&#34;&gt;
   &lt;iframe class=&#34;youtube-video&#34; src=&#34;https://www.youtube.com/embed/8-zOJboydcc?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
+&lt;p&gt;Unityを授業で初めて使った時の成果物。3Dゲームを作るという課題で私は、上から落ちてくる球をキャッチするというゲームを作成した。また、黄色い球をたまに出して点数を高く設定することで面白さを出した。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Arduinoを使用したセンサー制御</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyArduino1/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_ArduinoFirst/</link>
       <pubDate>Tue, 16 Jun 2015 16:16:33 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyArduino1/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_ArduinoFirst/</guid>
       <description>&lt;div class=&#34;youtube_mine&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/UojoutGMmsE?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -587,80 +668,15 @@ UIデザインを決定してから、コードに移す。細かい動きをjQu
     
     <item>
       <title>Open Frame Worksをやってみた！</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyOF1/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</link>
       <pubDate>Mon, 16 Jun 2014 15:54:31 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyOF1/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</guid>
       <description>&lt;div class=&#34;youtube_mine&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/cP4nto8ARqA?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって 色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>空間に会う電子ケトルの提案</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductKettleDesign/</link>
-      <pubDate>Fri, 16 May 2014 14:59:31 +0900</pubDate>
-      
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductKettleDesign/</guid>
-      <description>
-
-&lt;h2 id=&#34;space-propotion&#34;&gt;Space Propotion&lt;/h2&gt;
-
-&lt;p&gt;高校生から大学生に変わり、気持ちの変化から落ち着いた空間の良さがよりわかるようになり、この「和」といった空間を選びました。また、この昔からの「和」の空間を邪魔しないデザインのケトルを提案しようと思いました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design1.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;「和」の空間を邪魔しない&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;和室はとても落ち着きがあり、ゆったりした気分になります。そういった雰囲気はほかの部屋には出せない、和室の特徴です。その特徴を壊してしまうと和室が和室でなくなってしまうと思います。だから、和室独自の特徴を残しつつ現代の電子ケトルというものを自然に取り入れられるデザインを考えました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design2.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
-
-&lt;p&gt;「和」の空間を邪魔しないデザインにするために、「和」という特徴について考えました。「和」の自分の中のイメージとしては「古くからあるもの」「歴史として受け継がれているもの」といったイメージでした。そういったイメージの中で考えていき、思いついたのが「ししおどし」でした。ししおどしは、和の象徴とも言える竹を使っており、水も連想させるのでケトルにするにはいいと考えました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design3.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;target-user&#34;&gt;Target User&lt;/h2&gt;
-
-&lt;p&gt;自分のような高校生から大学生にあがり、環境の変化とともに気持ちも変化し今までなんとも思っていなかったことが違って見えたりすると思います。「和室」といった空間もそれと同様に、より好きになった人もいると思います。そういった若い人にも「和」の空間をより現代の生活に近いものにし生活しやすい空間にしようと思いました。&lt;/p&gt;
-
-&lt;h2 id=&#34;sketch&#34;&gt;Sketch&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design4.JPG&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;持ち手を女性の小さい手でも持ちやすいようにすることを意識しました。参考としてペットボトルの形や寸法などを調べました。竹らしさを残すために曲線を意識してデザインしました。蓋は、電子ケトルらしさをなくさないために見えない位置に設置するようなデザインにしました。&lt;/p&gt;
-
-&lt;h2 id=&#34;drawing&#34;&gt;Drawing&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;本体の三面図&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design5.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;土台の三面図&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design6.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;white-rendering&#34;&gt;White Rendering&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;本体部&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design7.jpg&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;土台部&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design8.png&#34; width=&#34;40%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;mockup&#34;&gt;Mockup&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design9.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design10.png&#34; width=&#34;35%&#34;&gt;
-&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/kettle_design11.jpg&#34; width=&#34;55%&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

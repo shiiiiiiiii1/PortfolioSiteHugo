@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/PlanningComponentToy/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Hackathon_KONICA/</loc>
+    <lastmod>2017-09-27T18:55:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Planning_ComponentToy/</loc>
     <lastmod>2017-09-16T22:47:03+09:00</lastmod>
   </url>
   
@@ -22,7 +27,7 @@
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductGraduateDepartment/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_GraduateDepartment/</loc>
     <lastmod>2017-02-16T18:50:00+09:00</lastmod>
   </url>
   
@@ -32,52 +37,52 @@
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductActee/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_ACTEE/</loc>
     <lastmod>2016-09-16T16:44:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web2/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioSecond/</loc>
     <lastmod>2016-06-16T16:44:23+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_Drawsketch/</loc>
     <lastmod>2016-02-16T16:41:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product3DmodelCamera/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</loc>
     <lastmod>2015-10-16T16:34:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web1/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioFirst/</loc>
     <lastmod>2015-09-16T16:28:57+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyUnity1/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_3DGame/</loc>
     <lastmod>2015-09-16T16:23:07+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyArduino1/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_ArduinoFirst/</loc>
     <lastmod>2015-06-16T16:16:33+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/TechnologyOF1/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</loc>
     <lastmod>2014-06-16T15:54:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductKettleDesign/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_KettleDesign/</loc>
     <lastmod>2014-05-16T14:59:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/ProductPackageDesign/</loc>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_PackageDesign/</loc>
     <lastmod>2013-06-15T05:34:15+09:00</lastmod>
   </url>
   
@@ -161,7 +166,7 @@
   
   <url>
     <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/</loc>
-    <lastmod>2017-09-16T22:47:03+09:00</lastmod>
+    <lastmod>2017-09-27T18:55:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,7 +190,13 @@
   
   <url>
     <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/</loc>
-    <lastmod>2017-09-16T22:47:03+09:00</lastmod>
+    <lastmod>2017-09-27T18:55:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/raspberry-pi/</loc>
+    <lastmod>2017-09-27T18:55:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -255,6 +266,12 @@
   </url>
   
   <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E3%82%B3%E3%83%8B%E3%82%AB%E3%83%9F%E3%83%8E%E3%83%AB%E3%82%BF/</loc>
+    <lastmod>2017-09-27T18:55:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%87%E3%82%A3%E3%83%86%E3%82%AF%E3%82%BF%E3%83%BC/</loc>
     <lastmod>2017-02-16T18:50:00+09:00</lastmod>
     <priority>0</priority>
@@ -269,6 +286,12 @@
   <url>
     <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9/</loc>
     <lastmod>2016-02-16T16:41:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3/</loc>
+    <lastmod>2017-09-27T18:55:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -347,6 +370,12 @@
   <url>
     <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E7%85%A7%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</loc>
     <lastmod>2017-02-16T18:50:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/tags/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF/</loc>
+    <lastmod>2017-09-27T18:55:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -11,10 +11,10 @@
     
     <item>
       <title>Draw Sketch</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</link>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_Drawsketch/</link>
       <pubDate>Tue, 16 Feb 2016 16:41:47 +0900</pubDate>
       
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/WebDrawsketch/</guid>
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_Drawsketch/</guid>
       <description>&lt;p&gt;初めてのwebアプリケーションの制作だった。Life is techでのインターンの内容だったので railsを使用せずにsinatraで始めた。Draw Sketchは簡単に言うとtwitterやinstagramなどの webサービスだ。twitterはつぶやくこと中心、instagramは写真を共有することが中心。 今回のDraw Sketchは、絵を描いてそれを共有するサービスである。現代のアプリケーションの 流れを考えたときに、絵を描くことが好きな人はきっとそれを共有したいと思うのではないのか といった考えのもと制作しようと思った。また、これを制作後、Rubyに興味をもち、Railsの勉強をした。 現在は、Railsを使用した企業でアルバイトをしている。&lt;/p&gt;
 </description>
     </item>
