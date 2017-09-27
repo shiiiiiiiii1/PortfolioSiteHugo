@@ -391,7 +391,7 @@ GUGENマイページは&lt;a href=&#34;https://gugen.jp/entry2016/2016-124&#34;&
     <item>
       <title>レスポンシブデザインを使用したサイト</title>
       <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioSecond/</link>
-      <pubDate>Thu, 16 Jun 2016 16:44:23 +0900</pubDate>
+      <pubDate>Mon, 16 May 2016 16:44:23 +0900</pubDate>
       
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Web_PortfolioSecond/</guid>
       <description>&lt;p&gt;一回目に制作した時は、レスポンシブデザインに対応していなかったので、今回はレスポンシブデザインに対応させることを目標として行いました。また、SCSSを使用することでより時間の短縮をしてデザインの実装をしていきました。classも指定するだけで決まったデザインになるようにcssを組んでいきました。&lt;/p&gt;
@@ -469,7 +469,7 @@ UIデザインを決定してから、コードに移す。細かい動きをjQu
     <item>
       <title>Unityを使用した3Dゲーム</title>
       <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_3DGame/</link>
-      <pubDate>Wed, 16 Sep 2015 16:23:07 +0900</pubDate>
+      <pubDate>Tue, 16 Jun 2015 16:23:07 +0900</pubDate>
       
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_3DGame/</guid>
       <description>&lt;div class=&#34;youtube_mine&#34;&gt;
@@ -495,9 +495,23 @@ UIデザインを決定してから、コードに移す。細かい動きをjQu
     </item>
     
     <item>
+      <title>Open Frame Worksをやってみた！</title>
+      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</link>
+      <pubDate>Mon, 16 Jun 2014 15:54:31 +0900</pubDate>
+      
+      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</guid>
+      <description>&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/cP4nto8ARqA?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって 色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rhinocerosを使用した3Dモデリング</title>
       <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</link>
-      <pubDate>Thu, 16 Oct 2014 16:34:30 +0900</pubDate>
+      <pubDate>Fri, 16 May 2014 16:34:30 +0900</pubDate>
       
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_3DmodelCamera/</guid>
       <description>
@@ -553,20 +567,6 @@ UIデザインを決定してから、コードに移す。細かい動きをjQu
 &lt;h2 id=&#34;rendering&#34;&gt;Rendering&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Product_3DmodelCamera7.png&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Frame Worksをやってみた！</title>
-      <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</link>
-      <pubDate>Mon, 16 Jun 2014 15:54:31 +0900</pubDate>
-      
-      <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</guid>
-      <description>&lt;div class=&#34;youtube_mine&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/cP4nto8ARqA?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって 色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;
 </description>
     </item>
     
