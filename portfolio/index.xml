@@ -298,7 +298,7 @@
 &lt;h3 id=&#34;テストの様子&#34;&gt;テストの様子&lt;/h3&gt;
 
 &lt;div class=&#34;youtube_mine&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/0rJZhr2Ge4k?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/zVSHLmK3ZvA?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&#34;今回実装できた内容&#34;&gt;今回実装できた内容&lt;/h3&gt;
@@ -495,13 +495,13 @@ UIデザインを決定してから、コードに移す。細かい動きをjQu
     </item>
     
     <item>
-      <title>Open Frame Worksをやってみた！</title>
+      <title>OpenFrameworksをやってみた！</title>
       <link>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</link>
       <pubDate>Mon, 16 Jun 2014 15:54:31 +0900</pubDate>
       
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/</guid>
       <description>&lt;div class=&#34;youtube_mine&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/cP4nto8ARqA?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JusgsHCODf4?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;プログラミングはじめたての頃に、C++を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって 色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。&lt;/p&gt;

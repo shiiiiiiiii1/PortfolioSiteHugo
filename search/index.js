@@ -219,12 +219,12 @@ var data = [
     ,
     {
       url: "https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Technology_openframeworksFirst/",
-      title: "Open Frame Worksをやってみた！",
+      title: "OpenFrameworksをやってみた！",
       content: "[プログラミングはじめたての頃に、C&#43;&#43;を用いてopen frame worksをいじった。はじめは、コードを書くだけで画面上のものが動くことに感動した。このopen frame worksがプログラミングの中で自分の初めての成果物である。作品の概要が、複数の球がいろいろな速度、角度で飛んでいき、壁の当たるところによって 色が変わるというものだ。また、マウスをクリックすると全部の球がクリックしたところに集まってきて、ドラックをすると追従してくる。マウスをはなすと球がはじけて、また散らばっていく。]",
       tags: [
         
           
-          "OpenFrameWroks"
+          "OpenFramewroks"
         
           ,
           "C&#43;&#43;"
