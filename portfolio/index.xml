@@ -18,19 +18,19 @@
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Hackathon_KONICA/</guid>
       <description>
 
-&lt;h1 id=&#34;テーマ&#34;&gt;テーマ&lt;/h1&gt;
+&lt;h2 id=&#34;テーマ&#34;&gt;テーマ&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;未来の働き方を想起させるサービスの提案&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;アイデアコンセプト&#34;&gt;アイデアコンセプト&lt;/h1&gt;
+&lt;h2 id=&#34;アイデアコンセプト&#34;&gt;アイデアコンセプト&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;海外とのプロジェクトのやり取りをもっと円滑に&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
+&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
 
 &lt;p&gt;未来の働き方を想像した時に、現在よりもさらに他国との協力したプロジェクトが増えると考えました。&lt;/p&gt;
 
-&lt;h1 id=&#34;ターゲット&#34;&gt;ターゲット&lt;/h1&gt;
+&lt;h2 id=&#34;ターゲット&#34;&gt;ターゲット&lt;/h2&gt;
 
 &lt;p&gt;上記の背景から今回想定したターゲットは&lt;/p&gt;
 
@@ -42,18 +42,18 @@
 
 &lt;p&gt;といった属性を持っている人をターゲットとした。&lt;/p&gt;
 
-&lt;h2 id=&#34;ターゲットが抱える問題&#34;&gt;ターゲットが抱える問題&lt;/h2&gt;
+&lt;h3 id=&#34;ターゲットが抱える問題&#34;&gt;ターゲットが抱える問題&lt;/h3&gt;
 
 &lt;p&gt;距離が遠いので現在の時刻や相手が何をしているのかわからない。そのため連絡したい時に、して良いのかがわからない。&lt;/p&gt;
 
-&lt;h1 id=&#34;プロダクトの説明&#34;&gt;プロダクトの説明&lt;/h1&gt;
+&lt;h2 id=&#34;プロダクトの説明&#34;&gt;プロダクトの説明&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;相手の状態を知ることのできるプロダクト&lt;/strong&gt;&lt;br /&gt;
 互いのユーザーがそれぞれそのプロダクトを持っている。
 机の上にそれを置くことにより、デスクで作業をしているときは相手にそれが通知される。
 また、作業を行なっている時間は、勤務時間と見なし連絡できる時間として知らせる。&lt;/p&gt;
 
-&lt;h1 id=&#34;使用の流れ&#34;&gt;使用の流れ&lt;/h1&gt;
+&lt;h2 id=&#34;使用の流れ&#34;&gt;使用の流れ&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;相手の情報（プロジェクト名、氏名、設定色）を指定する。&lt;/li&gt;
@@ -63,24 +63,24 @@
 &lt;li&gt;作業している状態になったら、それを設定したLEDの色として見ることができる。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&#34;競合サービス&#34;&gt;競合サービス&lt;/h1&gt;
+&lt;h2 id=&#34;競合サービス&#34;&gt;競合サービス&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;slack&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;slackの問題点&#34;&gt;slackの問題点&lt;/h2&gt;
+&lt;h3 id=&#34;slackの問題点&#34;&gt;slackの問題点&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;違うプロジェクトを開いていても、全部のプロジェクトが「active」状態になってしまう。&lt;/li&gt;
 &lt;li&gt;アプリケーションを開かないと相手の状態がわからない。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;slackとの差別化&#34;&gt;slackとの差別化&lt;/h2&gt;
+&lt;h3 id=&#34;slackとの差別化&#34;&gt;slackとの差別化&lt;/h3&gt;
 
 &lt;p&gt;プロダクトとして落とし込むことによって、自然な流れで相手の状態を知ることができる。&lt;/p&gt;
 
-&lt;h1 id=&#34;展望&#34;&gt;展望&lt;/h1&gt;
+&lt;h2 id=&#34;展望&#34;&gt;展望&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;LEDの部分をコニカミノルタの可視化技術を使ってよりわかりやすく使いやすくする。&lt;/li&gt;
@@ -98,11 +98,11 @@
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Planning_ComponentToy/</guid>
       <description>
 
-&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
+&lt;h2 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;作るだけで終わらない&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
+&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
 
 &lt;p&gt;チームメンバーが子供の頃に体験した経験をもとに、こういう背景ってあるよねっていうことを話し合いながら考えました。
 &lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Planning_ComponentToy1.jpg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
@@ -112,7 +112,7 @@
 こういった背景のもと身長制限のある子どもでもジェットコースターを楽しみたいということを実現しました！&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h1 id=&#34;ターゲット&#34;&gt;ターゲット&lt;/h1&gt;
+&lt;h2 id=&#34;ターゲット&#34;&gt;ターゲット&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;6〜7歳の男の子&lt;/li&gt;
@@ -122,7 +122,7 @@
 &lt;li&gt;プラレールなどの自分で組み合わせて作ることが好き&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;おもちゃ説明&#34;&gt;おもちゃ説明&lt;/h1&gt;
+&lt;h2 id=&#34;おもちゃ説明&#34;&gt;おもちゃ説明&lt;/h2&gt;
 
 &lt;p&gt;現実世界ではジェットコースターに乗れない子供にもジェットコースターのワクワクを味わってもらいたい。
 また、みんなが乗ってるあの感覚を味わいたい。という思いを実現するためのものです。
@@ -138,7 +138,7 @@
 
 &lt;p&gt;のフローで使用できます。&lt;/p&gt;
 
-&lt;h1 id=&#34;キーファクター&#34;&gt;キーファクター&lt;/h1&gt;
+&lt;h2 id=&#34;キーファクター&#34;&gt;キーファクター&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;ジェットコースターが体感できる&lt;/li&gt;
@@ -146,15 +146,15 @@
 &lt;li&gt;自由な場所で遊べる&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&#34;stp&#34;&gt;STP&lt;/h1&gt;
+&lt;h2 id=&#34;stp&#34;&gt;STP&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://shiiiiiiiii1.github.io/PortfolioSiteHugo/PortfolioSiteHugo/img/portfolio/Planning_ComponentToy2.jpeg&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;価格設定&#34;&gt;価格設定&lt;/h1&gt;
+&lt;h2 id=&#34;価格設定&#34;&gt;価格設定&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;¥8,000&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;価格帯の理由&#34;&gt;価格帯の理由&lt;/h2&gt;
+&lt;h3 id=&#34;価格帯の理由&#34;&gt;価格帯の理由&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;プラレールスターターキット：3000円&lt;/li&gt;
@@ -162,7 +162,7 @@
 &lt;li&gt;360°カメラ：4400円（将来の理想価格）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;セット内容&#34;&gt;セット内容&lt;/h2&gt;
+&lt;h3 id=&#34;セット内容&#34;&gt;セット内容&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;レール×50&lt;/li&gt;
@@ -171,21 +171,21 @@
 &lt;li&gt;360°カメラ&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;プロモーション&#34;&gt;プロモーション&lt;/h1&gt;
+&lt;h2 id=&#34;プロモーション&#34;&gt;プロモーション&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;遊園地のお土産売り場での販売&lt;/li&gt;
 &lt;li&gt;YouTubeを活用したオリジナルコースの作成&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;今後の課題&#34;&gt;今後の課題&lt;/h1&gt;
+&lt;h2 id=&#34;今後の課題&#34;&gt;今後の課題&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;360°カメラの価格の設定&lt;/li&gt;
 &lt;li&gt;スピード感の実現方法&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;今後の発展&#34;&gt;今後の発展&lt;/h1&gt;
+&lt;h2 id=&#34;今後の発展&#34;&gt;今後の発展&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Disney、富士急とのコラボ商品&lt;/li&gt;
@@ -332,6 +332,12 @@
       
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_ACTEE/</guid>
       <description>
+
+&lt;h2 id=&#34;movie&#34;&gt;Movie&lt;/h2&gt;
+
+&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3DUXRt04XoE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 

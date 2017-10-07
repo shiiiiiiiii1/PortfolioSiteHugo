@@ -148,6 +148,12 @@
       <guid>https://shiiiiiiiii1.github.io/PortfolioSiteHugo/portfolio/Product_ACTEE/</guid>
       <description>
 
+&lt;h2 id=&#34;movie&#34;&gt;Movie&lt;/h2&gt;
+
+&lt;div class=&#34;youtube_mine&#34;&gt;
+  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3DUXRt04XoE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;今回は、3人グループで製品の提案を行いました。私はテクノロジー分野を担当し、ハードウェアとソフトウェアの設計を行いました。&lt;br /&gt;
